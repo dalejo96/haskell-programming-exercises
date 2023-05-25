@@ -1,4 +1,4 @@
-# Excersices Chapter 1
+# Exercises Chapter 1
 
 **Combinators**
 
